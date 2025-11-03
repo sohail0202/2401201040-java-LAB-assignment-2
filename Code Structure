@@ -1,0 +1,12 @@
+studentmanagement/
+│
+├── main/
+│   └── MainApp.java
+│
+├── model/
+│   ├── Person.java
+│   └── Student.java
+│
+├── service/
+│   ├── RecordActions.java
+│   └── StudentManager.java
